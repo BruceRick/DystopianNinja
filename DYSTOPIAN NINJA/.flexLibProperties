@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="com.core.Preloader"/>
+    <classEntry path="com.core.MainMenu"/>
+    <classEntry path="com.core.Game"/>
+    <classEntry path="com.actors.Player"/>
+    <classEntry path="com.core.PhysicsManager"/>
+    <classEntry path="com.actors.Entity"/>
+    <classEntry path="com.actors.Flyer"/>
+    <classEntry path="com.actors.Boss"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
